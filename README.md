@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujpuri76" alt="anujpuri76" /></a> </p>
 
-- 🔭 I’m currently working on **MERN, Linux, Docker and many more**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Devops Courses**
 
