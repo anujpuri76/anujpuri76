@@ -1,193 +1,35 @@
-<div align="center">
+ <h1 align="center">Hi 👋, I'm Anuj puri</h1>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
-# 👋 Hey, I'm Anuj Puri
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpuri76&label=Profile%20views&color=0e75b6&style=flat" alt="anujpuri76" /> </p>
 
-### 🚀 React Native Developer | Full-Stack Developer | DevOps Learner
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujpuri76" alt="anujpuri76" /></a> </p>
 
-Building scalable mobile applications with modern technologies.
+- 🔭 I’m currently working on **MERN**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=React+Native+Developer;Full+Stack+Developer;TypeScript+Enthusiast;Learning+DevOps;Always+Building+Something+Cool"/>
+- 🌱 And also learning **Devops Courses**
 
-</div>
+- 👨‍💻 All of my projects are available at [Github](Github)
 
----
+- 💬 Ask me about **Full-Stack OR about Devops**
 
-# 💫 About Me
+- 📫 How to reach me **purianuj603@gmail.com**
 
-```ts
-const anuj = {
-    role: "React Native Developer",
-
-    experience: "Production Ready Applications",
-
-    currentlyWorkingOn: [
-        "React Native",
-        "Expo",
-        "Node.js Backend"
-    ],
-
-    currentlyLearning: [
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "CI/CD"
-    ],
-
-    askMeAbout: [
-        "React Native",
-        "React",
-        "Expo",
-        "TypeScript",
-        "Node.js",
-        "MongoDB"
-    ],
-
-    funFact: "I enjoy converting UI designs into pixel-perfect mobile apps."
-}
-```
-
----
-
-# 💼 Experience
-
-### 📱 React Native Developer
-
-✔ Built production-ready mobile applications
-
-✔ Worked on real-world EdTech products
-
-✔ Integrated REST APIs
-
-✔ Authentication
-
-✔ React Query
-
-✔ Performance Optimization
-
-✔ State Management
-
-✔ Reusable Components
-
-✔ Clean Architecture
-
-✔ TypeScript
-
-### 🏢 Projects I've Worked On
-
-- 📚 **Binogi**
-- 🎓 Learning Platforms
-- 📱 Mobile Applications
-- ⚡ Internal Enterprise Apps
-
----
-
-# 🚀 Tech Stack
-
-## Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,javascript,expo,firebase" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,chakraui" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-## DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,git,bash" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,github" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anujpuri76&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpuri76&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anujpuri76&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anujpuri76&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpuri76&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🌍 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/anujpuri">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/anujpuri76">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:purianuj603@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<a href="https://twitter.com/@anujpuri_212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anujpuri_212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anujpuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anujpuri" height="30" width="40" /></a>
+<a href="https://instagram.com/anujpuri_212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujpuri_212" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-# 📫 Contact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujpuri76&show_icons=true&locale=en&layout=compact" alt="anujpuri76" /></p>
 
-📧 **purianuj603@gmail.com**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujpuri76&show_icons=true&locale=en" alt="anujpuri76" /></p>
 
-💼 Open for
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujpuri76&" alt="anujpuri76" /></p>
 
-- React Native Development
-- Full Stack Development
-- Freelance Projects
-- Remote Opportunities
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=anujpuri76&label=Profile+Views&color=3b82f6&style=for-the-badge"/>
-
-</div>
+bhai ake achi si or modron readme bana de ye github ki meri me react native devloper hu real world projects pe kam kara hu example Binogi  
