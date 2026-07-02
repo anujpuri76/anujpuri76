@@ -30,6 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujpuri76&show_icons=true&locale=en" alt="anujpuri76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujpuri76&" alt="anujpuri76" /></p>
-
-
-bhai ake achi si or modron readme bana de ye github ki meri me react native devloper hu real world projects pe kam kara hu example Binogi  
+ 
